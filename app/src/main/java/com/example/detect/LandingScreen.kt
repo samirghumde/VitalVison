@@ -246,7 +246,7 @@ fun LandingScreen(
             }
         }
 
-        // Created by Siddharth Seth - Bottom
+        // Created by Samir Ghumde- Bottom
         Text(
             text = "Created by Samir ghumde",
             modifier = Modifier
