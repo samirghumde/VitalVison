@@ -57,7 +57,7 @@ VitalVision is designed to help users track and understand their emotional state
 ## Installation
 
 1. **Clone the repository:**
-git clone https://github.com/sseth345/vitalvision.git
+https://github.com/samirghumde/VitalVison.git
 2. **Open in Android Studio:**  
 Import the project into Android Studio.
 
